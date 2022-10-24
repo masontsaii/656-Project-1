@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "sum_harness_instructional",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark-Release-328355882c35099b9e0a.json",
+					"name" : "benchmark",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sum_direct::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sum_direct-Release-b430ebfb555a23370e0e.json",
+					"name" : "sum_direct",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sum_indirect::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sum_indirect-Release-ece015f0d4ce7577bc17.json",
+					"name" : "sum_indirect",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sum_vector::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sum_vector-Release-b190a8bb358efb9969df.json",
+					"name" : "sum_vector",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/mas/Desktop/656/656-Project-1/sum_harness_instructional 656/cmake-build-debug",
+		"source" : "C:/Users/mas/Desktop/656/656-Project-1/sum_harness_instructional 656"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

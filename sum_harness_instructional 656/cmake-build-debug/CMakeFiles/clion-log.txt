@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.4/bin/ninja/win/ninja.exe" -G Ninja -S "C:\Users\mas\Desktop\656\sum_harness_instructional 656" -B "C:\Users\mas\Desktop\656\sum_harness_instructional 656\cmake-build-debug"
+"C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "C:\Users\mas\Desktop\656\656-Project-1\sum_harness_instructional 656" -B "C:\Users\mas\Desktop\656\656-Project-1\sum_harness_instructional 656\cmake-build-debug"
 -- The CXX compiler identification is GNU 11.2.0
 -- Detecting CXX compiler ABI info
 -- Detecting CXX compiler ABI info - done
@@ -7,4 +7,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/mas/Desktop/656/sum_harness_instructional 656/cmake-build-debug
+-- Build files have been written to: C:/Users/mas/Desktop/656/656-Project-1/sum_harness_instructional 656/cmake-build-debug

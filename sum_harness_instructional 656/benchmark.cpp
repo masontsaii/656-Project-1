@@ -5,6 +5,7 @@
 //
 // usage: no command line arguments
 // set problem sizes, block sizes in the code below
+// test
 
 #include <algorithm>
 #include <chrono>
