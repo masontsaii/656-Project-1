@@ -6,6 +6,8 @@
 #include <vector>
 #include <string.h>
 
+
+uint64_t B[0];
 void
 setup(int64_t N, uint64_t A[])
 {
