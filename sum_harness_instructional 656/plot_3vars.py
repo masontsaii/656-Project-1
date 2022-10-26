@@ -20,7 +20,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-fname = "sum_indirect.csv"
+fname = "latency.csv"
 df = pd.read_csv(fname, comment="#")
 print(df)
 
